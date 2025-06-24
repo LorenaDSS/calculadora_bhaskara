@@ -58,3 +58,18 @@ Inicio
     fimse
 
 Fimalgoritmo
+```
+---
+# Exemplo de Saídas do Programa:
+
+### Saída 1: Delta negativo
+
+![Saída mostrando que Delta é negativo e não existem raízes reais](saida_delta_negativo.jpeg)
+
+### Saída 2: Raízes iguais
+
+![Saída mostrando que Delta é nulo e as raízes são reais e iguais](saida_delta_nulo.jpeg)
+
+### Saída 3: Raízes diferentes
+
+![Saída mostrando que Delta é positivo e as raízes são reais e diferentes](saida_delta_positivo.jpeg)
