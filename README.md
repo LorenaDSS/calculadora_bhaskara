@@ -1,4 +1,4 @@
-Calculadora de Bhaskara - Visualg
+# Calculadora de Bhaskara - Visualg
 Este é um algoritmo feito em Portugol (Visualg) para calcular as raízes de uma equação do segundo grau utilizando a Fórmula de Bhaskara.
 
 ## Código:
